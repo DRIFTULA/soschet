@@ -1,0 +1,40 @@
+.u-section-1 .u-sheet-1 {
+    min-height: 500px;
+}
+  
+.u-section-1 .u-form-1 {
+    height: 288px;
+    width: 570px;
+    margin: 60px auto;
+}
+  
+.u-section-1 .u-btn-1 {
+    width: 100%;
+    background-image: linear-gradient(#87f1c8, #07b132);
+    border-style: none;
+    font-weight: 700;
+    font-size: 1.25rem;
+    padding: 10px 30px;
+    margin: 5px auto;
+}
+
+a{
+    color: rgb(7, 87, 14);
+}
+
+.sms {
+    margin: 5px auto;
+    border: 3px solid #fd5f03;
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+.sms1 {
+    margin: 0px auto;
+    border: 3px solid #00b809;
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
